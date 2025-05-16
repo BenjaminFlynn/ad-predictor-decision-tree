@@ -34,10 +34,8 @@ Digital advertisers want to optimize the delivery of ads to maximize engagement 
 ## 🛠️ Tools & Technologies
 
 - **Language**: Python
-- **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn
+- **Libraries**: pandas, scikit-learn
 - **Modeling**: DecisionTreeClassifier (scikit-learn)
-- **Evaluation**: Confusion Matrix, Accuracy Score, Classification Report
-
 ---
 
 ## 📁 Project Structure
